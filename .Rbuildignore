@@ -1,0 +1,39 @@
+### R Studio files
+\.Rproj$
+\.Rproj\.user$
+
+### Configuration
+\.travis\.yml$
+codecov\.yml$
+\.gitlab-ci\.yml$
+_pkgdown\.yml$
+
+### pkgdown websites
+public/
+docs/
+
+### Obsolete files/directories
+delete/
+
+### Uncompiled documentation files
+README\.Rmd$
+
+### License
+LICENSE\.md$
+
+^\.Rproj\.user$
+
+### iROCK
+iROCK/
+
+### Images
+img/
+
+^doc$
+^Meta$
+
+### Maybe a side effect of testing? A file just called 'unspecified'.
+unspecified
+^CRAN-RELEASE$
+^cran-comments\.md$
+^CRAN-SUBMISSION$
